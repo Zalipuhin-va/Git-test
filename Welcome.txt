@@ -1,1 +1,2 @@
 print(«Welcome to Hell!»);
+print(«Всем кедрык!»);
